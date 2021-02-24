@@ -1,0 +1,4 @@
+class INSTRUCTRITA::CLI
+    puts "HEY YOU CONNECTED!"
+
+end

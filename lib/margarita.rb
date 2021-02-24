@@ -1,0 +1,3 @@
+class INSTRUCTRITA::Margarita
+
+end
